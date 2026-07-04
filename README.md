@@ -18,4 +18,4 @@ University of Pennsylvania, Kislak Center, Lawrence J. Schoenberg Collection,
   no additional rights are claimed over them.
 
 ## How to cite
-Mamontov, P. (2026). *LJS 419 — Erbario: A Page-by-Page Reading Edition.* Zenodo. https://doi.org/XXXX
+Mamontov, P. (2026). *LJS 419 — Erbario: A Page-by-Page Reading Edition.* Zenodo. DOI: 10.5281/zenodo.21198488
